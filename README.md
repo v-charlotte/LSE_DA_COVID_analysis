@@ -1,1 +1,1 @@
-# LSE_DA_COVID_analysis
+# COVID_analysis
